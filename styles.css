@@ -21,3 +21,39 @@
 .benefits-note{font-size:.83rem;color:var(--muted);margin:20px 0 28px;max-width:800px}
 @media(max-width:900px){.participation-grid{grid-template-columns:1fr 1fr}.signup-panel{grid-template-columns:1fr}}
 @media(max-width:680px){.participation-grid,.benefits-grid{grid-template-columns:1fr}.signup-panel{padding:20px}.signup-embed iframe{height:350px}.site-links{max-height:calc(100vh - 70px);overflow-y:auto}}
+
+
+/* How Could Life on Earth End? */
+.feature-hero{background:radial-gradient(ellipse at 83% 72%,#204a60 0%,#102c43 38%,#091625 75%);color:#fff;padding:185px 0 105px;position:relative;overflow:hidden}
+.feature-hero:after{content:"";position:absolute;width:500px;height:500px;border:1px solid #b5e6dc2b;border-radius:50%;right:-230px;bottom:-310px;box-shadow:0 0 110px #4d9a9a20;pointer-events:none}
+.feature-hero-inner{position:relative;z-index:1;max-width:1160px}
+.feature-hero h1{font-size:clamp(3.4rem,8vw,7rem);line-height:1.02;letter-spacing:-.07em;max-width:980px;margin:0 0 20px}
+.feature-hero h1 em{font-style:normal;color:var(--teal)}
+.feature-deck{font-size:clamp(1.4rem,3vw,2rem);font-weight:650;margin:0 0 22px;color:#d3eee8}
+.feature-intro{max-width:730px;font-size:1.12rem;color:#c7d8e1;line-height:1.8;margin:0 0 32px}
+.feature-caveat{font-size:.78rem;color:#a7bcc8;margin-top:24px}
+.feature-light{background:#f6f8f8}.feature-dark{background:#10283a;color:#fff}.feature-dark h2{color:#fff}
+.feature-lead{max-width:790px;color:var(--muted);font-size:1.09rem;margin:0 0 34px}
+.feature-dark .feature-lead{color:#c5d6de}
+.threshold-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.threshold-grid article{background:white;border:1px solid var(--line);padding:27px}
+.threshold-grid h3,.scenario h3{font-size:1.25rem;line-height:1.3;margin:14px 0 10px}
+.threshold-grid p{color:var(--muted);margin:0;font-size:.94rem}
+.feature-step{font-weight:800;letter-spacing:.1em;color:#267b82;font-size:.8rem}
+.scenario-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.scenario{background:#19364a;border:1px solid #ffffff27;padding:27px;display:flex;flex-direction:column}
+.scenario-tag{font-size:.72rem;line-height:1.5;letter-spacing:.03em;font-weight:750;color:#b0e2d8}
+.scenario p{color:#c5d4dd;font-size:.93rem;line-height:1.7;flex:1}
+.scenario a{color:#a4e0d2;text-decoration:none;font-size:.85rem;font-weight:700}
+.scenario a:hover{text-decoration:underline}
+.feature-small{color:#afc3cf;font-size:.8rem;margin-top:26px}
+.feature-split{display:grid;grid-template-columns:1fr 1fr;gap:75px}
+.feature-split p{color:var(--muted);margin-top:0}
+.feature-future{background:radial-gradient(ellipse at 85% 25%,#1c4a59,#091625 65%);color:#fff}
+.feature-future-inner{max-width:930px}
+.feature-future h2{color:white}
+.feature-future p:not(.eyebrow){color:#d0e0e7;font-size:1.04rem}
+.feature-future blockquote{font-size:clamp(1.35rem,2.5vw,2rem);font-weight:650;line-height:1.55;margin:38px 0;padding:15px 0 15px 25px;border-left:4px solid var(--teal)}
+.feature-light a:not(.button){color:#176b82}
+@media(max-width:900px){.threshold-grid,.scenario-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.feature-split{gap:35px}}
+@media(max-width:680px){.feature-hero{padding:150px 0 75px}.threshold-grid,.scenario-grid,.feature-split{grid-template-columns:1fr}.feature-split{display:block}.feature-future blockquote{padding-left:16px}.feature-hero h1{font-size:clamp(3rem,12vw,4.5rem)}}
