@@ -75,3 +75,13 @@
 .earth-flag img{width:84px;height:56px;object-fit:contain;border:1px solid #ffffff30;border-radius:5px}
 @media(max-width:900px){.hero-content{padding-right:36%}.hero-art{width:40vw;right:-4%}.hero h1{font-size:clamp(2.8rem,5vw,4rem)}}
 @media(max-width:680px){.hero-content{padding-right:0;padding-bottom:290px}.hero-art{width:min(88vw,430px);right:50%;top:auto;bottom:8px;transform:translateX(50%);opacity:.95}.hero h1{font-size:clamp(2.75rem,11vw,4.2rem)}.hero-art img{max-height:280px;object-fit:cover}.nature-art img{max-height:260px}.nature-art-row{padding-bottom:0}}
+
+
+/* The hero's golden spore stream: decorative motion, not a claim of real spaceborne spores. */
+.hero-art{isolation:isolate}
+.spore-stream{position:absolute;inset:0;overflow:hidden;pointer-events:none;border-radius:16px}
+.spore-stream::before,.spore-stream::after{content:"";position:absolute;width:54%;height:50%;left:34%;top:18%;background-image:radial-gradient(circle,#ffe5a3 0 1.6px,transparent 2.6px),radial-gradient(circle,#ffbf68 0 1px,transparent 2px),radial-gradient(circle,#fff0c5 0 1.2px,transparent 2px);background-size:31px 43px,47px 37px,59px 53px;filter:drop-shadow(0 0 5px #ffc975);opacity:0;transform:translate(-24%,35%) rotate(-20deg) scale(.65);animation:spores-to-stars 8s linear infinite}
+.spore-stream::after{animation-delay:-4s;background-size:39px 49px,53px 61px,43px 47px;opacity:0}
+@keyframes spores-to-stars{0%{opacity:0;transform:translate(-24%,35%) rotate(-20deg) scale(.65)}18%{opacity:.85}70%{opacity:.8}100%{opacity:0;transform:translate(42%,-58%) rotate(-20deg) scale(1.2)}}
+.hero h1{max-width:780px}
+@media(prefers-reduced-motion:reduce){.spore-stream::before,.spore-stream::after{animation:none;opacity:.45;transform:none}}
