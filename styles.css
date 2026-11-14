@@ -85,3 +85,13 @@
 @keyframes spores-to-stars{0%{opacity:0;transform:translate(-24%,35%) rotate(-20deg) scale(.65)}18%{opacity:.85}70%{opacity:.8}100%{opacity:0;transform:translate(42%,-58%) rotate(-20deg) scale(1.2)}}
 .hero h1{max-width:780px}
 @media(prefers-reduced-motion:reduce){.spore-stream::before,.spore-stream::after{animation:none;opacity:.45;transform:none}}
+
+/* Flower meadow: a gentle stream of seeds traveling toward the galaxy. */
+.nature-art{position:relative;isolation:isolate}
+.nature-art img{height:350px;object-position:center 46%}
+.seed-stream{position:absolute;inset:0 0 auto;height:350px;overflow:hidden;border-radius:12px;pointer-events:none}
+.seed-stream::before,.seed-stream::after{content:"";position:absolute;left:32%;top:31%;width:45%;height:40%;background-image:radial-gradient(circle,#fff6d8 0 1.6px,transparent 2.8px),radial-gradient(circle,#ffdc87 0 1px,transparent 2.2px),radial-gradient(circle,#fff 0 1px,transparent 2.4px);background-size:47px 41px,63px 53px,79px 67px;filter:drop-shadow(0 0 5px #ffce7a);opacity:0;animation:seeds-to-stars 11s linear infinite}
+.seed-stream::after{animation-delay:-5.5s;background-size:59px 47px,73px 61px,53px 71px}
+@keyframes seeds-to-stars{0%{opacity:0;transform:translate(-25%,34%) rotate(-12deg) scale(.65)}22%{opacity:.75}70%{opacity:.65}100%{opacity:0;transform:translate(65%,-70%) rotate(12deg) scale(1.12)}}
+@media(max-width:680px){.nature-art img{height:260px}.seed-stream{height:260px}}
+@media(prefers-reduced-motion:reduce){.seed-stream::before,.seed-stream::after{animation:none;opacity:.35;transform:none}}
