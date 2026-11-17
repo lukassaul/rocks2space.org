@@ -95,3 +95,21 @@
 @keyframes seeds-to-stars{0%{opacity:0;transform:translate(-25%,34%) rotate(-12deg) scale(.65)}22%{opacity:.75}70%{opacity:.65}100%{opacity:0;transform:translate(65%,-70%) rotate(12deg) scale(1.12)}}
 @media(max-width:680px){.nature-art img{height:260px}.seed-stream{height:260px}}
 @media(prefers-reduced-motion:reduce){.seed-stream::before,.seed-stream::after{animation:none;opacity:.35;transform:none}}
+
+/* From Launch to Life: conceptual equation, not a numeric forecast */
+.equation-section{background:#eef5f4}
+.equation-section h2{max-width:800px}
+.equation-lead{font-size:1.1rem;color:var(--muted);max-width:770px;margin:0 0 30px}
+.equation-display{display:flex;align-items:baseline;justify-content:center;flex-wrap:wrap;gap:10px 13px;padding:31px 23px;background:#10283a;color:#fff;border-radius:10px;line-height:1.5;font-size:clamp(1.02rem,1.8vw,1.55rem);font-weight:650;letter-spacing:-.03em}
+.equation-display sub{font-size:.63em;letter-spacing:0}
+.eq-result{color:#a4e0d2}.eq-operator{color:#91b4bf;font-weight:450}.eq-factor{white-space:nowrap}
+.equation-stages{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;margin:20px 0 30px}
+.equation-stages a{display:flex;flex-direction:column;gap:5px;padding:17px 20px;border:1px solid #d3e1e0;border-radius:6px;background:#fff;text-decoration:none;transition:border-color .2s,transform .2s}
+.equation-stages a:hover{border-color:#267b82;transform:translateY(-2px)}
+.equation-stages strong{color:#176b82;font-size:.97rem}
+.equation-stages span{color:var(--muted);font-size:.86rem}
+.equation-explainer{max-width:890px;color:#405966;font-size:1.02rem}
+.equation-note{max-width:890px;color:#60757c;font-size:.83rem}
+@media(max-width:900px){.equation-stages{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:680px){.equation-display{justify-content:flex-start;padding:23px 18px;gap:7px 10px}.equation-stages{grid-template-columns:1fr 1fr}.equation-stages a{padding:14px 12px}}
+@media(max-width:390px){.equation-stages{grid-template-columns:1fr}}
