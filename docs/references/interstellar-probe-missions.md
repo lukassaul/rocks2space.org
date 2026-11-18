@@ -164,3 +164,49 @@ The same official session also contains **SH019-03 / 676542** (Olga A. Katushkin
 3. Retrieve **Dragonfly team design reports** and list their authors individually.
 4. Research **TAU** and other historical mission concepts against NASA NTRS primary sources.
 5. Separate **true star-to-star** mission architects from **local-ISM precursor** researchers when building a future expert contact list.
+
+
+---
+
+## Research pass 3 — Chinese and Russian/Soviet mission and research leads (2026-11-17)
+
+### China: Interstellar Express / Interstellar Heliosphere Probes (IHP)
+
+**Classification:** Proposed **interstellar precursor** exploration of the heliosphere boundary and local interstellar medium, **not** a mission to another star. Do not describe earlier target launch years as an actual launch or current approved schedule.
+
+**Primary institutional source:** Chinese Academy of Sciences, “Interstellar Express: A Possible Successor of Voyagers,” 11 November 2019: https://bcas.cas.cn/infocus/201911/t20191111_223051.html . Describes a two-probe concept, one toward the heliosphere nose and the other toward the tail, with a nominal 100 AU exploration objective.
+
+**Conference abstract:** Qiugang Zong, “Interstellar Heliosphere Probes (IHPs),” EGU General Assembly 2020, **EGU2020-3981**, DOI https://doi.org/10.5194/egusphere-egu2020-3981 ; program https://meetingorganizer.copernicus.org/EGU2020/displays/36056 . Zong describes the proposed pair of probes and the historical ambition to reach 100 AU around 2049. **Type:** conference abstract, not proof of mission approval.
+
+**Recent peer-reviewed article:** LI Hui, YANG Zhongwei, WANG Chi, GUO Xiaocheng, JIANG Wence, WANG Yuxian and BALIUKIN Igor I., “Directional Scientific Objectives of the Interstellar Express Mission,” *Journal of Deep Space Exploration* **12**(5), 489–502 (2025), DOI https://doi.org/10.3724/j.issn.2096-9287.2025.20250031 ; English abstract and affiliations: https://jdse.bit.edu.cn/sktcxb/en/article/doi/10.3724/j.issn.2096-9287.2025.20250031?viewType=HTML . This paper evaluates directions, objectives and payload requirements; **it is not evidence that the mission has launched**.
+
+**Researchers and printed affiliations (2025 article):**
+- Li Hui, Yang Zhongwei, Wang Chi, Guo Xiaocheng, Jiang Wence, Wang Yuxian — National Space Science Center, Chinese Academy of Sciences, Beijing (some also University of Chinese Academy of Sciences).
+- Igor I. Baliukin — Space Research Institute, Russian Academy of Sciences (IKI RAS), Moscow.
+- Qiugang Zong — 2020 EGU conference presenter; check his paper's original affiliation and current professional page before contact.
+
+**Additional context:** A 2022 article on European interstellar-probe participation reports that Chinese precursor studies were discussed at the **639th Xiangshan Science Conference (October 2018)** and an **ISSI Beijing meeting (November 2019)**: https://doi.org/10.3389/fspas.2022.1063849 . These are leads for retrieving the original meeting programs, not substitutes for them.
+
+**Rocks2Space delivery relevance:** decades-long spacecraft reliability, high-speed deep-space transit, propulsion and gravity-assist options, power, telecommunications, radiation and dust environment. Biological payload carriage is **not a stated objective** of the cited Chinese proposal.
+
+### Russia and Soviet Union: evidence and limits
+
+**Documented Russian contribution:** Igor I. Baliukin, affiliated with **IKI RAS**, is a coauthor of the 2025 Chinese Interstellar Express scientific-objectives paper above. This establishes **cross-national research participation**, not a separately approved Russian interstellar spacecraft.
+
+**Related 2026 trajectory work:** Russian researchers at the Moscow Institute of Physics and Technology and Keldysh Institute of Applied Mathematics were reported to be studying **interception of interstellar objects passing through the Solar System**: https://itrussia.media/en/article/space-watch-russia-prepares-to-intercept-interstellar-wanderers-20-07-2026 . **Status:** secondary reporting; obtain the original research paper, authors and DOI before adding individuals to the verified index. Intercepting a visitor is distinct from sending a probe to another star.
+
+**Soviet-era deep-space background:** Sergey P. Korolev and Mikhail K. Tikhonravov signed a 1958 long-range Soviet space-exploration planning memorandum, preserved by NASA: https://www.nasa.gov/history/sputnik/russ5.html . This is **historical spaceflight planning**, not a documented Soviet interstellar probe proposal. Do not classify it as such.
+
+**Current evidence limit:** No independently approved Russian star-to-star probe mission or specifically named Soviet interstellar-probe engineering study has yet been verified in this pass. Search Russian-language IKI RAS, Keldysh Institute, COSPAR and IAC proceedings before making broader claims.
+
+### Conference retrieval queue: China and Russia
+
+| Venue | Target | Researcher names to verify | Status |
+|---|---|---|---|
+| EGU General Assembly 2020 | EGU2020-3981, *Interstellar Heliosphere Probes* | Qiugang Zong | **Verified abstract** |
+| Xiangshan Science Conference 639 (2018) | Chinese interstellar precursor proposal | Original speakers and abstracts not yet extracted | **Meeting reported in 2022 peer-reviewed source; original proceedings needed** |
+| ISSI Beijing (November 2019) | International heliosphere/interstellar-probe workshop | Original participant roster not yet extracted | **Meeting reported; original proceedings needed** |
+| COSPAR assemblies | Chinese heliosphere precursor and Russian heliospheric/mission design contributions | Qiugang Zong, Wang Chi, Igor Baliukin, and other authors only if matched to a specific abstract | **To verify** |
+| Russian-language publications | Interstellar precursor, solar-system boundary and interstellar-object interception concepts | IKI RAS / Keldysh research groups | **To verify primary papers** |
+
+**Source hygiene:** The term “interstellar” in *Interstellar Express* refers to the **local interstellar medium**, not arrival at a different star. Distinguish scientific studies, submitted mission proposals, approved missions and flown spacecraft.
