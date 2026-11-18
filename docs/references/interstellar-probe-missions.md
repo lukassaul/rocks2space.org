@@ -210,3 +210,78 @@ The same official session also contains **SH019-03 / 676542** (Olga A. Katushkin
 | Russian-language publications | Interstellar precursor, solar-system boundary and interstellar-object interception concepts | IKI RAS / Keldysh research groups | **To verify primary papers** |
 
 **Source hygiene:** The term “interstellar” in *Interstellar Express* refers to the **local interstellar medium**, not arrival at a different star. Distinguish scientific studies, submitted mission proposals, approved missions and flown spacecraft.
+
+
+---
+
+## Research pass 4 — original 2018 Xiangshan and 2019 ISSI-Beijing meeting records (2026-11-17)
+
+### 639th Xiangshan Science Conference — October 2018
+
+- **Meeting theme (Chinese):** 太阳系边际探测的前沿关键问题 — *Frontier/key scientific questions in exploration of the solar-system boundary*.
+- **Contemporaneous report:** Gan Xiao (甘晓), “2049年实现太阳系边际探测” (*Achieving Solar-System Boundary Exploration by 2049*), *China Science Daily*, 31 October 2018: https://news.sciencenet.cn/sbhtmlnews/2018/10/340391.shtm .
+- **Identified researcher/meeting role:** **Wu Weiren (吴伟仁)**, Chinese Academy of Engineering academician and China National Space Administration lunar-exploration engineering-center researcher, described as an **executive chair** who presented the Chinese concept for solar-system-boundary exploration.
+- **Independent academic corroboration:** “Scientific Issues of the Solar System Boundary Exploration Project” (太阳系边际探测项目的科学问题), *Journal of Deep Space Exploration* (2020): https://jdse.bit.edu.cn/sktcxb/cn/article/doi/10.15982/j.issn.2096-9287.2020.20200058 . This paper explicitly references the October 2018 639th Xiangshan meeting and the November 2019 ISSI-BJ forum.
+- **Document type:** Contemporary press account plus later scientific article; **NOT an official full program or proceedings**. Do not infer the complete speaker list from these sources.
+- **Still needed:** Official 639th meeting program, other executive chairs, speaker list, report titles and abstracts, preferably via Xiangshan conference archives or CAS.
+
+### ISSI-Beijing Forum — 7–8 November 2019
+
+**Official meeting:** *Exploration of Outer Heliosphere and Nearby Interstellar Medium*.
+
+- [Official meeting page](https://www.issibj.ac.cn/Program/Forums/OuterHeliosphere/201906/t20190618_211821.html) — links forum handbook, program, presentations and participants list.
+- [Original two-day agenda (PDF)](https://www.issibj.ac.cn/program/forums/2019/202107/W020191030534731700481.pdf) — **primary source**, with speaker names, talk titles, sessions and times.
+- [Original forum handbook (PDF)](https://www.issibj.ac.cn/Program/Forums/OuterHeliosphere/201906/P020240912384741425123.pdf).
+- [ISSI-BJ meeting report](https://www.issibj.ac.cn/News/201911/t20191114_223284.html).
+- **Official conveners:** Wang Chi (NSSC/CAS); Ralph L. McNutt Jr. (Johns Hopkins University); Robert F. Wimmer-Schweingruber (University of Kiel); John D. Richardson (MIT); Li Hui (NSSC/CAS). These affiliations are from the 2019 meeting announcement, **not verified current positions**.
+
+**Talk-by-talk index transcribed from the official agenda:**
+
+| Date | Speaker | Presentation | Session / delivery relevance |
+|---|---|---|---|
+| 7 Nov | Wang Chi | Interstellar Express: A New Chinese Mission to Outer Heliosphere | Overview: direct mission proposal |
+| 7 Nov | Ralph L. McNutt Jr. | Study of a Near-Term Interstellar Probe for the Decadal Survey: Status | Overview: US mission architecture |
+| 7 Nov | John Richardson | The heliosphere and interstellar medium interaction: current and future observations | Outer heliosphere science |
+| 7 Nov | Vladimir Florinski | Magnetic trapping of galactic cosmic rays in the outer heliosheath | Radiation environment |
+| 7 Nov | Vladislav Izmodenov | Magnetic field in the outer heliosheath: existing constraints and open questions | Magnetic environment; Russian research lead |
+| 7 Nov | Merav Opher | Our Heliospheric Shield: Some of the Most Pressing Science Questions | Radiation/heliosphere |
+| 7 Nov | Igor Baliukin | Interstellar neutrals (H, He, O, Ne) in the heliosphere measured by IBEX | Local interstellar neutrals; Russian research lead |
+| 7 Nov | Luo Xi | Study galactic cosmic ray modulation using the interstellar probe | Radiation science |
+| 7 Nov | Guo Xiaocheng | Solar wind events and their consequences in the outer heliosphere | Space environment |
+| 8 Nov | Zong Qiugang | From Earth’s Magnetospheres to the Outer Heliosphere & beyond | Scientific objectives |
+| 8 Nov | W-H Ip | Icy Giants (and Planet Nine) as the Windows of Opportunity in Outer Heliospheric Exploration | Planetary gravity assists/science |
+| 8 Nov | Robert Wimmer-Schweingruber | In-Situ Investigation Of The Interstellar Medium | Instrumentation |
+| 8 Nov | Wang Linghua | PKU ENA Imager | Energetic-neutral-atom imaging |
+| 8 Nov | Xue Hongbo | Prospect of Vector Atomic Magnetometer in the Exploration of Outer Heliosphere and Nearby Interstellar Medium | Instrumentation |
+| 8 Nov | Zhang Aibing | Payloads Proposal for Chinese Interstellar Express Mission | **Chinese spacecraft payload proposal** |
+| 8 Nov | Benoit Lavraud | Requirements and design of a dual, thermal ion-electron instrument for an outer heliosphere and interstellar mission (remote) | Instrumentation |
+
+**Additional program roles:** Laura Baldis (opening and future-work discussion), Guo Xiaocheng (session chair and future-work discussion), John Richardson, Ralph McNutt, Robert Wimmer-Schweingruber and Li Hui (session chairs). The agenda lists 16 named scientific talks; the discussion and welcome slots are additional, not scientific presentations.
+
+**Evidence limits:** This agenda establishes **participation and presentation titles**, not peer-reviewed papers, mission approvals, funding commitments, or support for transporting life. The official meeting page advertises separate **participant list and presentations**; retrieve and index those files in the next pass to capture non-speakers and presentation-level detail.
+
+### Cross-national researcher leads from the original 2019 agenda
+
+| Researcher | Evidence-based connection | Next verification |
+|---|---|---|
+| Wang Chi | Chinese Interstellar Express overview speaker and forum convener | Find original presentation and mission team authors |
+| Li Hui | Chinese convener and payload-session chair | Original handbook/participant affiliation |
+| Guo Xiaocheng | Outer-heliosphere talk and session/discussion leadership | Research papers and NSSC professional page |
+| Zhang Aibing | Chinese Interstellar Express payload-proposal speaker | Slides and instrument publications |
+| Wang Linghua | PKU ENA Imager speaker | PKU affiliation and publications |
+| Xue Hongbo | Magnetometer payload speaker | Original presentation and institution |
+| Zong Qiugang | Outer-heliosphere science speaker | EGU2020 abstract and professional affiliation |
+| Luo Xi | Galactic cosmic-ray modulation talk | Original presentation and publications |
+| Vladislav Izmodenov | Outer-heliosheath magnetic-field talk | Russian research affiliation in participant list |
+| Igor Baliukin | Interstellar neutrals/IBEX talk | IKI RAS publications and 2025 Chinese coauthored paper |
+| Vladimir Florinski | Cosmic-ray trapping talk | Confirm institutional affiliation; **do not infer Russian nationality from name** |
+| Merav Opher | Heliospheric shielding science talk | Research papers and institutional page |
+| Robert Wimmer-Schweingruber | Science/instrument talk and convener | University of Kiel mission study papers |
+| Ralph L. McNutt Jr. | US mission architecture talk and convener | Johns Hopkins APL mission reports |
+
+### Next verification tasks
+
+1. Download and inspect the **2019 ISSI-BJ participant list and presentation files** linked from the official forum page; record exact affiliations and additional researchers.
+2. Locate the **official 639th Xiangshan conference program** or conference secretariat archive; the press account identifies Wu Weiren but does not provide a complete roster.
+3. Compare the 2019 Chinese mission architecture/payload presentations with subsequent **Interstellar Express** journal papers, carefully distinguishing proposals from approved or launched missions.
+4. Search Russian-language **IKI RAS** publications and conference abstracts for Izmodenov and Baliukin, without assuming a Russian-owned interstellar mission.
